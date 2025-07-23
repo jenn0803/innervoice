@@ -1,0 +1,31 @@
+# 💭 InnerVoice - Anonymous Confession Wall
+
+InnerVoice is a beautifully designed, interactive and safe space for users to anonymously express their thoughts and feelings. Built using PHP, MySQL, HTML, CSS, and JavaScript.
+
+---
+
+## 🌸 Features
+
+- 🔐 Anonymous posting (no login required)
+- 🌼 Aesthetic confession wall with pastel theme
+- 📝 Live confession posting with JavaScript
+- 🔥 Abusive language detection and validation
+- 💖 Emoji reactions and reply support (coming soon)
+- 📌 Confession tracking using localStorage
+
+---
+
+## 📷 Preview
+
+![InnerVoice Screenshot](screenshots/wall-preview.png)
+<img src="/img/shot.png">
+---
+
+## 🚀 Tech Stack
+
+- **Frontend**: HTML, CSS (custom styles), JavaScript
+- **Backend**: PHP (with mysqli)
+- **Database**: MySQL
+- **Server**: Apache (XAMPP recommended)
+
+---
